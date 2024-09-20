@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\source\\repos\\web-app-performance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4323BC2A-12DA-43A7-AF06-F9FFFE6D4A2C}|web-app-performance\\web-app-performance.csproj|c:\\users\\mathe\\source\\repos\\web-app-performance\\web-app-performance\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4323BC2A-12DA-43A7-AF06-F9FFFE6D4A2C}|web-app-performance\\web-app-performance.csproj|solutionrelative:web-app-performance\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4323BC2A-12DA-43A7-AF06-F9FFFE6D4A2C}|web-app-performance\\web-app-performance.csproj|c:\\users\\mathe\\source\\repos\\web-app-performance\\web-app-performance\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4323BC2A-12DA-43A7-AF06-F9FFFE6D4A2C}|web-app-performance\\web-app-performance.csproj|solutionrelative:web-app-performance\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\web-app-performance\\web-app-performance\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "web-app-performance\\Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\web-app-performance\\web-app-performance\\Model\\Usuario.cs",
+              "RelativeToolTip": "web-app-performance\\Model\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T00:56:18.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\web-app-performance\\web-app-performance\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "web-app-performance\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\web-app-performance\\web-app-performance\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "web-app-performance\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:28:05.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
