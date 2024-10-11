@@ -45,11 +45,37 @@ namespace Test
             Assert.Equal(JsonConvert.SerializeObject(Produtos), JsonConvert.SerializeObject(okResult.Value));
         }
 
-        //[Fact]
-        //public async Task Get_ListarRetornandoNotFound()
-        //{
-        //    _productRepositoryMock.Setup(u => u.ListarProdutos())
-        //        .ReturnsAsync((IEnumerable))
-        //}
+        [Fact]
+        public async Task Get_ListarRetornandoNotFound()
+        {
+            _productRepositoryMock.Setup(u => u.ListarProdutos())
+                .ReturnsAsync((IEnumerable<Produto>)null);
+
+            var result = await _controller.GetProduto();
+
+            Assert.IsType<NotFoundResult>(result);
+        }
+
+        [Fact]
+        public async Task Post_SalvarProduto()
+        {
+            var produto = new Produto()
+            {
+                Nome = "lapis",
+                Id = 1,
+                Preco = 5.0,
+                DataCriacao = "20/10/2024",
+                QuantidadeEstoque = 100
+            };
+            _productRepositoryMock.Setup(u => u.SalvarProduto(It.IsAny<Produto>()))
+                .Returns(Task.CompletedTask);
+
+            var result = await _controller.Post(produto);
+
+
+            _productRepositoryMock.Verify(u => u.SalvarProduto(It.IsAny<Produto>()), Times.Once);
+
+            Assert.IsType<OkResult>(result);
+        }
     }
 }
