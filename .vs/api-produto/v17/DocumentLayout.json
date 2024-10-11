@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\labsfiap\\source\\repos\\apiProdutoCP5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ED03657F-1AD3-42DB-B76D-E7024288D9AF}|Test\\Test.csproj|c:\\users\\labsfiap\\source\\repos\\apiprodutocp5\\test\\produtorepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED03657F-1AD3-42DB-B76D-E7024288D9AF}|Test\\Test.csproj|solutionrelative:test\\produtorepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED03657F-1AD3-42DB-B76D-E7024288D9AF}|Test\\Test.csproj|c:\\users\\labsfiap\\source\\repos\\apiprodutocp5\\test\\produtocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED03657F-1AD3-42DB-B76D-E7024288D9AF}|Test\\Test.csproj|solutionrelative:test\\produtocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4323BC2A-12DA-43A7-AF06-F9FFFE6D4A2C}|web-app-performance\\web-app-performance.csproj|c:\\users\\labsfiap\\source\\repos\\apiprodutocp5\\web-app-performance\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4323BC2A-12DA-43A7-AF06-F9FFFE6D4A2C}|web-app-performance\\web-app-performance.csproj|solutionrelative:web-app-performance\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{05A2CC9F-6649-4A2E-BCC8-81B336E05017}|web-app-domain\\web-app-domain.csproj|c:\\users\\labsfiap\\source\\repos\\apiprodutocp5\\web-app-domain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05A2CC9F-6649-4A2E-BCC8-81B336E05017}|web-app-domain\\web-app-domain.csproj|solutionrelative:web-app-domain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4323BC2A-12DA-43A7-AF06-F9FFFE6D4A2C}|web-app-performance\\web-app-performance.csproj|c:\\users\\labsfiap\\source\\repos\\apiprodutocp5\\web-app-performance\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4323BC2A-12DA-43A7-AF06-F9FFFE6D4A2C}|web-app-performance\\web-app-performance.csproj|solutionrelative:web-app-performance\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\apiProdutoCP5\\Test\\ProdutoRepositoryTest.cs",
+              "RelativeDocumentMoniker": "Test\\ProdutoRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\apiProdutoCP5\\Test\\ProdutoRepositoryTest.cs",
+              "RelativeToolTip": "Test\\ProdutoRepositoryTest.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T01:03:05.646Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -34,30 +51,31 @@
               "RelativeToolTip": "web-app-domain\\Produto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T23:29:50.218Z"
+              "WhenOpened": "2024-10-10T23:29:50.218Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProdutoControllerTest.cs",
               "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\apiProdutoCP5\\Test\\ProdutoControllerTest.cs",
               "RelativeDocumentMoniker": "Test\\ProdutoControllerTest.cs",
               "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\apiProdutoCP5\\Test\\ProdutoControllerTest.cs",
               "RelativeToolTip": "Test\\ProdutoControllerTest.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAIwE0AAAAUAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T23:14:11.252Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\apiProdutoCP5\\web-app-performance\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "web-app-performance\\Controllers\\ProdutoController.cs",
               "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\apiProdutoCP5\\web-app-performance\\Controllers\\ProdutoController.cs",
               "RelativeToolTip": "web-app-performance\\Controllers\\ProdutoController.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowDgAAAAAAAAA",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAowDgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T23:02:11.681Z",
               "EditorCaption": ""
